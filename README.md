@@ -27,7 +27,7 @@ Para crear un nuevo usuario selecciona el metodo **POST** con la url descrita y 
 
 > **contrasenia** -> Coloca la contraseña del usuario.
 
-Esto devolvera un objeto JSON con la informacion ingrsada
+Esto devolvera un objeto JSON con la informacion ingresada
 
 `
 {
@@ -44,7 +44,7 @@ Esto devolvera un objeto JSON con la informacion ingrsada
 
 Para listar todos los usuarios selecciona el metodo **GET** con la url descrita
 
-Esto devolvera un objeto JSON con todas las tareas que se encuentran en la base de datos
+Esto devolvera un objeto JSON con todos los usuarios que se encuentran en la base de datos
 
 `
 [
@@ -83,7 +83,7 @@ Esto devolvera un objeto JSON con todas las tareas que se encuentran en la base 
 
 Para listar el detalle de un spñp usuario selecciona el metodo **GET** con la url descrita y colocamos el id del usuario a mostrar
 
-Esto devolvera un objeto JSON con el detalle de la tarea ingresada
+Esto devolvera un objeto JSON con el detalle del usuario
 
 `
 [
